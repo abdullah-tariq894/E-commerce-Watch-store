@@ -1,0 +1,8 @@
+{
+  "name": "Perfect Time Collection - Luxury Watches & Horology",
+  "description": "Premier luxury watch store featuring Edifice, Pagani Design, Citizen, Casio, Curren & Women's Collection with Cash on Delivery across Pakistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
